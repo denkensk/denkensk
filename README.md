@@ -1,4 +1,4 @@
-### Hi 👋  I am Alex Wang (王庆璨)
+### Hi 👋  I am Alex Wang  王庆璨 
 
 <!--
 **denkensk/denkensk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
